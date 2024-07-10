@@ -18,4 +18,19 @@ Este repositório contém a configuração EFI para instalar o macOS em uma plac
 <a href="#"><img align=center height=30px src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/Ethernet.svg"></a>&nbsp;&nbsp;**Ethernet**: RTL8125 2.5GbE Controller
 
 <a href="#"><img align=center height=30px src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/nvme.svg"></a>&nbsp;&nbsp;**Storage**: NT 1TB
+<br><br>
 
+<h2><a href="#"><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/kext.svg" align="center" width="32px"><a href="#readme-top"><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/icone-para-documentacao/backtotop.svg" align="right" width="25px"></a> </a>&nbsp;Kexts</h2>
+
+- AppleALC
+- FeatureUnlock
+- Lilu
+- LucyRTL8125Ethernet
+- NVMeFix
+- RestrictEvents
+- SMCProcessor
+- SMCSuperIO
+- USBMap
+- USBWakeFixup
+- VirtualSMC
+- WhateverGreen
